@@ -30,7 +30,11 @@ python3 -m http.server 8080
 
 ## 支持项目
 
-游戏本身免费提供。若你觉得这个项目有用，欢迎在 GitHub 上点 Star、提交改进建议，或在作者已经启用收款后通过 [GitHub Sponsors](https://github.com/sponsors/weixiaoa123) 支持项目。当前仓库只提供代码和试玩页面，不声称已经产生任何收入。
+游戏本身免费提供。若你觉得这个项目有用，欢迎在 GitHub 上点 Star、提交改进建议，或通过下面的支付宝二维码支持项目。二维码由项目所有者主动提供；付款请以支付宝页面显示的收款方和金额为准。当前仓库不自动确认付款，也不声称已经产生任何收入。
+
+![支付宝支持二维码](assets/alipay-support.jpg)
+
+如需 US$1 起的定制服务，请查看 [定制服务说明](OFFER.md) 并先在 [GitHub Issues](https://github.com/weixiaoa123/pong-game/issues) 留言。
 
 ## 许可证
 
