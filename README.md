@@ -4,9 +4,11 @@ Neon Pong 是一个无需安装、支持键盘、鼠标和触控的复古街机�
 
 ## 在线试玩
 
-启用 GitHub Pages 后，可通过仓库的 Pages 地址直接试玩：
+GitHub Pages 当前受仓库权限限制，暂未启用。已验证的公开试玩镜像如下：
 
-`https://weixiaoa123.github.io/pong-game/`
+[立即试玩 Neon Pong ↗](https://raw.githack.com/weixiaoa123/pong-game/main/index.html)
+
+如果镜像服务暂时不可用，也可以下载 Release 后直接打开 `index.html`。
 
 ## 功能
 

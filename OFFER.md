@@ -11,7 +11,7 @@ Neon Pong 不是让作者自己购买的“支持项目”，而是一个可以�
 
 ## 购买方式
 
-先下载 [Neon Pong 1.0.1](https://github.com/weixiaoa123/pong-game/releases/tag/v1.0.1) 查看是否适合你的页面，再在 [GitHub Issues](https://github.com/weixiaoa123/pong-game/issues) 留言说明要改的品牌名、颜色或功能。确认需求后，可通过项目所有者主动提供的支付宝二维码付款；付款前请以支付宝页面显示的收款方和金额为准。本仓库不会自动读取或确认付款状态，买家完成付款后请在 Issue 留言说明订单内容。
+先[立即试玩 Neon Pong](https://raw.githack.com/weixiaoa123/pong-game/main/index.html)，或下载 [Neon Pong 1.0.2](https://github.com/weixiaoa123/pong-game/releases/tag/v1.0.2) 查看是否适合你的页面，再在 [GitHub Issues](https://github.com/weixiaoa123/pong-game/issues) 留言说明要改的品牌名、颜色或功能。确认需求后，可通过项目所有者主动提供的支付宝二维码付款；付款前请以支付宝页面显示的收款方和金额为准。本仓库不会自动读取或确认付款状态，买家完成付款后请在 Issue 留言说明订单内容。
 
 ![支付宝付款二维码](assets/alipay-support.jpg)
 
