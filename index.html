@@ -1,36 +1,54 @@
-<!DOCTYPE html>
-<html lang="en">
+<!doctype html>
+<html lang="zh-CN">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pong Game</title>
-    <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Neon Pong，一款轻量、无需安装、支持键盘与触控的复古街机乒乓球游戏。" />
+  <title>Neon Pong — 复古街机乒乓球</title>
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-    <div class="container">
-        <div class="scoreboard">
-            <div class="score">
-                <h2>Player</h2>
-                <p id="playerScore">0</p>
-            </div>
-            <div class="title">
-                <h1>PONG</h1>
-            </div>
-            <div class="score">
-                <h2>Computer</h2>
-                <p id="computerScore">0</p>
-            </div>
-        </div>
-        
-        <canvas id="gameCanvas" width="800" height="400"></canvas>
-        
-        <div class="controls">
-            <p>Use <strong>Mouse</strong> or <strong>Arrow Keys (↑/↓)</strong> to control the left paddle</p>
-            <p>Press <strong>SPACE</strong> to start/pause the game</p>
-            <p>Press <strong>R</strong> to reset the game</p>
-        </div>
-    </div>
+  <main class="shell">
+    <header class="hero">
+      <div>
+        <p class="eyebrow">NEON ARCADE · 01</p>
+        <h1>NEON <span>PONG</span></h1>
+        <p class="subtitle">简单规则，极难放下。挑战电脑，刷新你的最高分。</p>
+      </div>
+      <div class="status-pill" id="statusPill"><span class="dot"></span><span id="statusText">准备开始</span></div>
+    </header>
 
-    <script src="script.js"></script>
+    <section class="game-card" aria-label="Neon Pong 游戏区域">
+      <div class="scoreboard">
+        <div class="score-block"><span>玩家</span><strong id="playerScore">0</strong></div>
+        <div class="versus">VS</div>
+        <div class="score-block"><span>电脑</span><strong id="computerScore">0</strong></div>
+      </div>
+      <canvas id="gameCanvas" width="900" height="500" aria-label="乒乓球游戏画布"></canvas>
+      <div class="toolbar">
+        <label for="difficulty">难度
+          <select id="difficulty">
+            <option value="easy">新手</option>
+            <option value="normal" selected>标准</option>
+            <option value="hard">专家</option>
+          </select>
+        </label>
+        <button id="startButton" class="primary">开始游戏</button>
+        <button id="resetButton" class="secondary">重新开始</button>
+      </div>
+    </section>
+
+    <section class="info-grid">
+      <div class="info-card"><span class="info-icon">↑↓</span><div><h2>键盘控制</h2><p>使用方向键或 W / S 移动挡板。</p></div></div>
+      <div class="info-card"><span class="info-icon">◉</span><div><h2>鼠标与触控</h2><p>移动鼠标，或在画布上拖动手指。</p></div></div>
+      <div class="info-card"><span class="info-icon">★</span><div><h2>最高分</h2><p>本设备最高分：<strong id="bestScore">0</strong> 分。</p></div></div>
+    </section>
+
+    <footer>
+      <span>NEON PONG · 免费游玩</span>
+      <a href="https://github.com/weixiaoa123/pong-game" target="_blank" rel="noreferrer">查看源码 / 支持项目 ↗</a>
+    </footer>
+  </main>
+  <script src="script.js"></script>
 </body>
 </html>
