@@ -1,0 +1,45 @@
+name: US$1 customization order
+description: Request a small brand or gameplay customization for Neon Pong.
+title: "Order: US$1 customization"
+labels:
+  - order
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for trying Neon Pong. Please describe the requested change before paying. Do not include passwords, card numbers, or other sensitive information.
+  - type: input
+    id: title
+    attributes:
+      label: Title or brand name
+      description: What text should appear in the game?
+      placeholder: "Example: Acme Arcade"
+    validations:
+      required: true
+  - type: input
+    id: colors
+    attributes:
+      label: Colors
+      description: Optional CSS colors, such as #00e5ff and #111827.
+      placeholder: "Example: cyan and dark navy"
+    validations:
+      required: false
+  - type: textarea
+    id: changes
+    attributes:
+      label: Requested changes
+      description: Choose one or more light changes, such as credit line, button wording, difficulty, ball speed, or winning score.
+      placeholder: "Example: Add 'Made for Acme' below the title and set winning score to 7."
+    validations:
+      required: true
+  - type: checkboxes
+    id: payment
+    attributes:
+      label: Payment acknowledgement
+      options:
+        - label: I understand that payment should be made only after the maintainer confirms the request and amount, using the Alipay QR code shown in the repository.
+          required: true
+  - type: markdown
+    attributes:
+      value: |
+        After confirmation, reply here with a payment reference or redacted screenshot. Delivery is made through a release, patch, or direct reply after manual payment verification.
