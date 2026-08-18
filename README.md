@@ -1,5 +1,9 @@
 # Neon Pong
 
+> **US$1 brand customization:** [Play the demo](https://raw.githack.com/weixiaoa123/pong-game/main/index.html) · [See the bilingual buy-now page](BUY_NOW.md) · [Open an order issue](https://github.com/weixiaoa123/pong-game/issues/new?template=order.yml)
+>
+> Change a title, brand color, credit line, button label, difficulty, ball speed, or winning score. After the request is confirmed and payment is manually verified through the Alipay QR shown below, the edited HTML/CSS/JS files are delivered as a release, patch, or ZIP.
+
 Neon Pong 是一个无需安装、支持键盘、鼠标和触控的复古街机乒乓球小游戏，也是一套面向陌生买家的**可编辑 HTML 小游戏套件**。它适合被放进活动页、个人主页、社群页面、小商家品牌页或前端学习作品集中；下载者拿到的是可直接运行的 HTML、CSS 和 JavaScript 文件，而不是只能观看的演示。买家可以先免费试玩，再以 **US$1 起**委托标题、配色、署名、难度、按钮文案或部署方式的修改。整个项目基于原生 HTML、CSS 和 JavaScript 构建，不依赖数据库。
 
 ## 在线试玩
