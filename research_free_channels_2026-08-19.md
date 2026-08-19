@@ -27,3 +27,15 @@ Indie X submissions are free and the 2026 deadline is September 13, 2026. Howeve
 ## New lead to verify next
 
 A fresh search surfaced Discovergg with a claim of free submission in under 2 minutes and no cost. This lead still needs direct page verification before any action because search snippets alone are insufficient: https://discovergg.com/where-to-post-your-game.php
+
+## Discovergg verification
+
+Source: https://discovergg.com/where-to-post-your-game.php
+
+Discovergg states that submissions are free, browser-game focused, permanent, community-voted, and require no account to submit. Its instructions still require a valid email, plus title, description, direct URL, category, and screenshot. Approval is usually described as within 24 hours. No submission was made because the user did not authorize providing private email information.
+
+## iDev.Games verification
+
+Sources: https://idev.games/upload-your-game and https://idev.games/register
+
+iDev.Games offers free HTML5 hosting and instant publication, but publishing requires creating an account with username, email, terms acceptance, and a bot-check phrase. Its terms grant the platform a hosting/distribution license and collect email plus username. No account was created and no submission was made because private account credentials and email were not authorized.
