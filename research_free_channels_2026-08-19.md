@@ -47,3 +47,7 @@ The previously referenced submission URL https://html5games.com/submit/ currentl
 ## Search status after Valeri
 
 Additional searches did not surface a clearly verifiable guest submission channel without contact information. Indie X, showcase forms, and portal submissions generally require an email or identity. Valeri was the closest fit but its client-side submit validation requires contact name and email despite the HTML fields lacking `required` attributes; no private information was supplied.
+
+## GitHub Games portal verification
+
+The public page at https://githubgames.gitlab.io/ describes itself as a free browser-game platform and says developers can submit games via GitHub and contact or GitHub Issues. However, DOM inspection found no actual contact or GitHub Issues link; the only relevant footer link exposed was Discord, while the page displays an email address as plain text. No submission was attempted because there is no verifiable no-email public form and the task avoids private contact details.
