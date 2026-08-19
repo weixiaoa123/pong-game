@@ -19,3 +19,7 @@ Twelve Games accepts free submissions with no required email, but its public for
 Plaxzy accepts HTML5/JavaScript browser games for free, but requires a free sign-in and an email for review follow-up. It was not submitted because no private account or email was authorized.
 
 FreeOnlineAIGames accepts browser games for free only when they have a meaningful AI component and requires contact information. Neon Pong does not clearly satisfy the AI-specific criterion, and no contact information was provided, so no submission was made.
+
+## Indie X
+
+Indie X submissions are free and the 2026 deadline is September 13, 2026. However, the form requires a name and email, asks for extensive media, and its FAQ states that submitted contact data may be retained, shared with jury/partners, and used for future communications. Because no private email was authorized, no application was submitted.
