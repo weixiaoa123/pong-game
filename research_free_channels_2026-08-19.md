@@ -51,3 +51,7 @@ Additional searches did not surface a clearly verifiable guest submission channe
 ## GitHub Games portal verification
 
 The public page at https://githubgames.gitlab.io/ describes itself as a free browser-game platform and says developers can submit games via GitHub and contact or GitHub Issues. However, DOM inspection found no actual contact or GitHub Issues link; the only relevant footer link exposed was Discord, while the page displays an email address as plain text. No submission was attempted because there is no verifiable no-email public form and the task avoids private contact details.
+
+## enginesdatabase.com verification
+
+The homepage is accessible, but extraction surfaced a Django debug/settings dump rather than a clean public submission workflow, and the advertised add-engine page did not yield extractable public content. Because the site behavior is abnormal and there is no clear no-email submission route, no action was taken.
