@@ -43,3 +43,7 @@ iDev.Games offers free HTML5 hosting and instant publication, but publishing req
 ## HTML5Games.com recheck
 
 The previously referenced submission URL https://html5games.com/submit/ currently returns a 404 page (`Game not found`). Static extraction also failed, so no submission was attempted.
+
+## Search status after Valeri
+
+Additional searches did not surface a clearly verifiable guest submission channel without contact information. Indie X, showcase forms, and portal submissions generally require an email or identity. Valeri was the closest fit but its client-side submit validation requires contact name and email despite the HTML fields lacking `required` attributes; no private information was supplied.
