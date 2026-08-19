@@ -39,3 +39,7 @@ Discovergg states that submissions are free, browser-game focused, permanent, co
 Sources: https://idev.games/upload-your-game and https://idev.games/register
 
 iDev.Games offers free HTML5 hosting and instant publication, but publishing requires creating an account with username, email, terms acceptance, and a bot-check phrase. Its terms grant the platform a hosting/distribution license and collect email plus username. No account was created and no submission was made because private account credentials and email were not authorized.
+
+## HTML5Games.com recheck
+
+The previously referenced submission URL https://html5games.com/submit/ currently returns a 404 page (`Game not found`). Static extraction also failed, so no submission was attempted.
