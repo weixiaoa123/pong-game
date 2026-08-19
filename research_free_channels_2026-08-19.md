@@ -23,3 +23,7 @@ FreeOnlineAIGames accepts browser games for free only when they have a meaningfu
 ## Indie X
 
 Indie X submissions are free and the 2026 deadline is September 13, 2026. However, the form requires a name and email, asks for extensive media, and its FAQ states that submitted contact data may be retained, shared with jury/partners, and used for future communications. Because no private email was authorized, no application was submitted.
+
+## New lead to verify next
+
+A fresh search surfaced Discovergg with a claim of free submission in under 2 minutes and no cost. This lead still needs direct page verification before any action because search snippets alone are insufficient: https://discovergg.com/where-to-post-your-game.php
